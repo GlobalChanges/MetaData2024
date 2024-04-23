@@ -1,0 +1,43 @@
+{
+  "id": "246316",
+  "year": "2024",
+  "freidok": "",
+  "issue": "246316",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Die Rolle des Internets in einem autoritären Staat",
+  "abstract": "Mit dem Tod von Amini 2022 nimmt die Protestwelle des iranischen Volkes gegen die Politik des Revolutionsführers Khamenei nie gekannte Ausmaße an. Das Kopftuch wird zum Symbol des Widerstandes gegen die ständige Kontrolle und Unterdrückung des Überwachungsstaates, der tief in die Privatsphäre der IranerInnen eingreift. Die Hilferufe der Bevölkerung verbreiten sich über das Internet weltweit und sorgen somit für Aufmerksamkeit für die Missstände – doch, der autoritäre Staat versucht durch Internetsperren und unmenschliche Methoden die aufbegehrenden Stimmen zu ersticken.",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Anna-Louisa",
+      "name": "Spielmann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Iran",
+    "countries": [],
+    "continent": "Naher Osten",
+    "landscape": "Großstadt",
+    "latitude": 32,
+    "longitude": 54,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Politik",
+  "subtopic": "Digitalisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2024/246316/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2024/246316/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2024/246316/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2024/246316/tiles.dzi",
+  "sources": []
+}

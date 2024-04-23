@@ -1,0 +1,43 @@
+{
+  "id": "245855",
+  "year": "2024",
+  "freidok": "245855",
+  "issue": "245855",
+  "doi": "10.6094/UNIFR/245855",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Tipping points: a climate emergency",
+  "abstract": "The term ‘tipping point’ refers to a critical threshold of a system at which a small additional perturbation can ‘tip’ it into a qualitatively new state. Since the early 2000s, the concept has become increasingly popular in various disciplines, particularly in the context of anthropogenic climate change. Indeed there is a lot of uncertainty about temporal and spatial impacts.",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Anna Rachel",
+      "name": "Daxner",
+      "freidok": "319950",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "None",
+    "latitude": -45.26262067796806,
+    "longitude": -154.88339441536257,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2024/245855/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2024/245855/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2024/245855/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2024/245855/tiles.dzi",
+  "sources": []
+}

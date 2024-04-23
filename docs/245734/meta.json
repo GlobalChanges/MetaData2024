@@ -1,0 +1,43 @@
+{
+  "id": "245734",
+  "year": "2024",
+  "freidok": "245734",
+  "issue": "5734",
+  "doi": "10.6094/UNIFR/245734",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Wasserbilanzen - Wasser ist die treibende Kraft der Natur",
+  "abstract": "Wasser ist unverzichtbar für alles Leben auf der Erde. Damit der Mensch überleben kann, braucht er eine kontinuierliche Menge an Süßwasser. Jedoch besteht das weltweite Wasservorkommen zu 97% aus Salzwasser der Ozeane. Somit bleiben nur 3 % Süßwasser übrig, wobei 69 % davon in Gletschern gebunden ist und somit nicht direkt zur Verfügung steht. Wasserbilanzen sind wichtig, um die Wasserverfügbarkeit einer Region für die Nutzung zu ermitteln und regionale Unterschiede zu identifizieren. Die globale Wasserbilanz ist ausgeglichen und bildet sich aus Niederschlag, Verdunstung, Abfluss und der Speicheränderung. Durch den Klimawandel kommt es zu einer Intensivierung des globalen Wasserkreislaufes.\n",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Dorothea",
+      "name": "Seng",
+      "freidok": "319927",
+      "orcid": " 0009-0009-7047-073"
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -46.044979936629325,
+    "longitude": -156.09489954925337,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2024/245734/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2024/245734/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2024/245734/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2024/245734/tiles.dzi",
+  "sources": []
+}

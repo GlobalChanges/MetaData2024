@@ -1,0 +1,43 @@
+{
+  "id": "245769",
+  "year": "2024",
+  "freidok": "245769",
+  "issue": "5769",
+  "doi": "10.6094/UNIFR/245769",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Green New Deal - Zwischen Vision und Umsetzung",
+  "abstract": "Unter dem Begriff \"Green New Deal\" sind in den vergangenen Jahren Konzepte für eine ökologische Neuausrichtung der Gesellschaft entstanden. Das Poster diskutiert unterschiedliche Ansätze und die Umsetzung des \"European Green Deal\". Darüber hinaus werden kritische Perspektiven und weitere Entwicklungen aufgezeigt.",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Julia",
+      "name": "Gerlach",
+      "freidok": "320051",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Atmosphäre",
+    "latitude": 51.22974759001475,
+    "longitude": 18.676615189121183,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2024/245769/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2024/245769/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2024/245769/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2024/245769/tiles.dzi",
+  "sources": []
+}

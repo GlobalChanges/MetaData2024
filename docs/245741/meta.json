@@ -1,0 +1,43 @@
+{
+  "id": "245741",
+  "year": "2024",
+  "freidok": "245741",
+  "issue": "5741",
+  "doi": "10.6094/UNIFR/245741",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Studierst du noch oder gentrifzierst du schon?",
+  "abstract": "Die Zahl der Studierenden hat in den letzten 20 Jahren stark zugenommen. Unter dem Begriff der Studentifzierung werden Prozesse des urbanen Wandels wie die Abwanderung sozial schwächerer Bevölkerungsschichten durch den Zuzug von Studierenden erklärt. Studien aus Großbritannien zeigen, dass der Prozess der Studentifizierung deutliche Parallelen zu einer Gentrifizierung aufweist. Auch in Deutschland sind die Mietpreise in den letzten 10 Jahren deutlich gestiegen. Aber sind Studierende tatsächlich der Hauptgrund für die Verdrängung anderer Bevölkerungsgruppen?\nFiles",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Jakob",
+      "name": "Reineck",
+      "freidok": "320052",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 51.850814975430694,
+    "longitude": 12.02289261089351,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Gender",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2024/245741/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2024/245741/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2024/245741/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2024/245741/tiles.dzi",
+  "sources": []
+}
